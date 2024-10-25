@@ -68,7 +68,7 @@ const Pay = () => {
                 cursor:"pointer"
               }}
               >
-                Pay Now
+                Checkout Now
             </button>
            </StripeCheckout>
           )}
